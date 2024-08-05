@@ -1,0 +1,45 @@
+_repo: Piimalasku-ja-kokkelpiimee_73935
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hemmo, Kaarlo
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '25325'
+    url: http://www.gutenberg.org/2009/agents/25325
+    wikipedia: https://fi.wikipedia.org/wiki/Kaarlo_Hemmo
+description: ''
+gutenberg_issued: '2024-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73935'
+language: fi
+pgterms:marc905: 20240625012917hemmo
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: 'Piimälasku ja kokkelpiimee -- Kosto kortinpelloojille -- Ku on nousuluonto
+  -- Herrastuomar Pohata uus turkki -- Joka toeselle kuoppoo kaevaa: se siihe ite
+  lankioo -- Herrastuomar Pohata emännän nimipäevät -- Ku nenästä vettää... -- Ku
+  emäntä ja isäntä virkoja vaehto -- "Lassilline arvo" -- Suu soattaa suven rittaa,
+  kielj kärpän nakkii -- Sitä mukkoo kuokitaa, ku ruokitaa -- Sumujärven pappi hammasleäkärinä
+  -- Varotushuuto naemattomille ja leskmiehille karkausvuonna -- Ku lautamies tuomittii
+  -- Kauppias Riston erreys -- Silli poes haesemasta -- Mattiina -- Ku kukoestus kuorestaa
+  puhkes... -- Sielun viholline pötk pakkoo... -- Matkalla Ametriikkii... -- Hermovikako
+  vae "Vanaha-Oatam"? -- Myyränmäkeläeset sähkössä -- Ku minä ite: varastin -- Rotta,
+  rotta: voe herra siunatkoo!... -- Ku suutarjmestärj pelekäs: tulovaasa varkaaks
+  -- Lukkari viisautta... -- Hoppeeheät ja: vallankummous -- Syksyilla vietto vanahaa
+  aekaa -- Ite pilas... -- Mite kuokkavieraelle liehka annettii -- Kepakkala Rietu
+  -- Parturi purk kauppasa -- "Liikemiehe" sotamuistelmija -- Ku kasvoja pitj laettoo
+  -- Yöjalakalaeste vaennooja -- Läskine talv.'
+title: Piimälasku ja kokkelpiimee
+url: http://www.gutenberg.org/ebooks/73935
